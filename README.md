@@ -8,11 +8,17 @@ Built using **Jupyter Notebooks, Gemini AI, and Google Cloud Platform (GCP)**, t
 
 # 🌟 Key Features
 ✅ **CV Scoring** – Get a percentage match score between your CV and the job description.
+
 ✅ **Skill Gap Analysis** – Identify missing or underrepresented skills.
+
 ✅ **Personalized Feedback** – Receive AI-generated suggestions for improvement.
+
 ✅ **CV Tailoring** – Automatically rewrite and restructure your CV to match the job.
+
 ✅ **Keyword Optimization** – Enhance ATS (Applicant Tracking System) compatibility.
+
 ✅ **Professional Formatting** – Generate a clean, modern, and tailored CV.
+
 ✅ **Multilingual Support** – Works with CVs and job descriptions in multiple languages.
 
 # 🔧 Usage
