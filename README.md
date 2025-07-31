@@ -20,7 +20,7 @@ Built using **Jupyter Notebooks, Gemini AI, and Google Cloud Platform (GCP)**, t
         User uploads their CV (PDF/DOCX) and the job description (text/PDF).
         
     Step 2: Select the Job Type
-        Uses a dropdown menu to select the job type (e.g., software engineer, marketing manager).
+        User selects the job type on the dropdown menu (e.g., software engineer, marketing manager etc).
 
     Step 3: Parse & Extract Text
         Uses pdfplumber and python-docx to extract clean text from documents.
